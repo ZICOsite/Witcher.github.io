@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Mason Chronicles';
+    src: url('MasonChronicles.eot');
+    src: url('MasonChronicles.eot?#iefix') format('embedded-opentype'),
+        url('MasonChronicles.woff2') format('woff2'),
+        url('MasonChronicles.woff') format('woff'),
+        url('MasonChronicles.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
