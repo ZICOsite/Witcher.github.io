@@ -1241,11 +1241,11 @@ label.hamburger > i:after {
     left: 47.5%;
   }
   .drawer-list {
-    width: 40vw;
+    width: 100vw;
   }
 
   .drawer-list li a {
-    text-align: right;
+    text-align: center;
     padding: 0.5rem;
   }
 }
